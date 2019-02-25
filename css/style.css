@@ -52,3 +52,16 @@ Navigation
 }
 
 
+/* Challenge Styles*/
+
+.makeRed{
+	.bottom_button;
+	background-color:red;
+}
+
+.makeBorder{
+	.bottom_button;
+	border: solid 2px;
+}
+
+
